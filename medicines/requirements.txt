@@ -1,0 +1,11 @@
+# PDF processing - เปลี่ยนเป็น PyMuPDF
+PyMuPDF==1.23.8
+
+# Database connection
+psycopg2-binary>=2.9.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Additional utilities
+regex>=2023.6.3
